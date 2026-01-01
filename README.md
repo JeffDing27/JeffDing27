@@ -1,17 +1,17 @@
 # Hello, I'm Ru-Hsuan Ding!          
 <div>
   <span style="float: left">
-    <a href="https://www.linkedin.com/in/edombelayneh" target="_blank">
+    <a href="https://www.linkedin.com/in/ruhsuanding/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </span>
   <span style="float: right">
-    <a href="https://drive.google.com/file/d/1I9iBjYGZt739r2RP1eTgyl1TQwja8zl5/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1EDWc55uDmqApfT7qB-n20L78kPjrsMQ8/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/-Resume-f2336f?&style=for-the-badge&logoColor=white" />
     </a>
   </span>
   <span style="float: right">
-    <a href="http://www.edombelayneh.com" target="_blank">
+    <a href="http://www.ruhsuanding.com" target="_blank">
       <img src="https://img.shields.io/badge/-Portfolio-brown?&style=for-the-badge&logoColor=white" />
     </a>
   </span>
