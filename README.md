@@ -56,8 +56,8 @@ I’m always curious, open to learning new tools, and excited to keep building.
 </div>
 
 ## Organizations
-- ColorStack
-- Rewriting The Code
-- CodePath
-- Women In Tech
-- National Society of Black Engineers
+- Ensign College Tech Group
+- Codecademy
+- FrontendMasters
+- SHPE
+
