@@ -40,7 +40,7 @@ I’m always curious, open to learning new tools, and excited to keep building.
 ### 🏢 Origin Brand Merch — Business Website
 
 <a href="https://www.originbrandmerch.com/" target="_blank">
-  <img src="./assets/Origin.png" width="700" />
+  <img src="./assets/Origin.png" width="500" />
 </a>
 
 **Description:**  
@@ -57,7 +57,7 @@ HTML, CSS, JavaScript, Cloudflare, Domain & DNS Management
 ### 🧠 AI Flashcard Generator
 
 <a href="https://flashcard-rust-theta.vercel.app/" target="_blank">
-  <img src="./assets/Flashcards.png" width="700" />
+  <img src="./assets/Flashcards.png" width="500" />
 </a>
 
 **Description:**  
@@ -74,7 +74,7 @@ Next.js, React, Tailwind CSS, Firebase, Clerk, Google AI (Gemini)
 ### 📦 Inventory Tracker
 
 <a href="https://inventory-tracker-sheet.vercel.app/" target="_blank">
-  <img src="./assets/Inventory.png" width="700" />
+  <img src="./assets/Inventory.png" width="500" />
 </a>
 
 **Description:**  
