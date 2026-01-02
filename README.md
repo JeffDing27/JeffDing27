@@ -17,15 +17,23 @@
 </div>
 
 ## About Me
-I’m a junior full-stack web developer with over a year of hands-on experience building real projects. I enjoy turning ideas into working applications and learning by building, debugging, and improving my code.
+I’m a **junior full-stack web developer** with over a year of hands-on experience building real projects. I enjoy turning ideas into working applications and learning by building, debugging, and improving my code.
 
 One project I’m especially proud of is an AI-powered flashcard app that converts long text into flashcards. I integrated Google AI APIs, implemented authentication with Clerk, deployed with Vercel, and used Firebase for data storage. Debugging deployment issues taught me a lot about real-world development, and I genuinely enjoyed the process.
 
 I’ve worked with JavaScript, CSS, Tailwind CSS, Material UI, React, and Next.js, and I’m comfortable deploying applications and managing domains. While I don’t have advanced CI/CD experience yet, I understand modern deployment workflows and continue to improve as I build more production-level projects.
 
-I graduated with an Associate Degree in Web Development (2024) and will begin pursuing a Bachelor’s degree in Software Engineering in January 2026. My goal is to become a strong full-stack developer, with a growing focus on building AI-powered applications.
+I have hands-on experience building 30+ production websites using HTML, CSS, and JavaScript, setting up domains and security with Cloudflare, and integrating third-party services such as Shopify, ShipStation, and inventory systems.
 
 I’m always curious, open to learning new tools, and excited to keep building.
+
+🎓 **Education**
+- Associate Degree in Web Development (2024)
+- B.S. in Software Engineering — starting January 2026
+
+---
+
+
 ## Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql)](https://skillicons.dev)
