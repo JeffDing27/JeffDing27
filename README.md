@@ -86,9 +86,14 @@ Next.js, React, Firebase, Material UI
 🔗 **Live Demo:** https://inventory-tracker-sheet.vercel.app/  
 📂 **GitHub Repo:** https://github.com/JeffDing27/inventory-tracker.git
 
+---
+
+
 ## 🛠 Languages & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,react,nextjs,materialui,styledcomponents,tailwind)](https://skillicons.dev)
+
+---
 
 ## ⚙️ Tools & Platforms
 
@@ -96,11 +101,15 @@ Next.js, React, Firebase, Material UI
 <img src="https://img.shields.io/badge/-Clerk-0a0a0a?&style=for-the-badge&logo=clerk&logoColor=white" />  
 <img src="https://img.shields.io/badge/-GoDaddy-0a0a0a?&style=for-the-badge&logo=globe&logoColor=white" />  
 
+---
+
 ## 🤖 AI & APIs
 
 [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
 
 - **Google AI / Gemini** - AI text generation & API integration
+
+---
 
 ## 💡 Skills
 
@@ -110,6 +119,8 @@ Next.js, React, Firebase, Material UI
 - Deployment & production debugging
 - Responsive UI development
 - Self-taught, project-based learning
+
+---
 
 ## 🏛 Affiliations / Services
 
