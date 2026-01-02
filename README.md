@@ -1,4 +1,7 @@
-# Hello, I'm Ru-Hsuan Ding!          
+# Hello, I'm Ru-Hsuan Ding!    
+<a href="https://www.linkedin.com/in/ruhsuanding/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 <div>
   <span style="float: left">
     <a href="https://www.linkedin.com/in/ruhsuanding/" target="_blank">
@@ -17,7 +20,7 @@
   </span>
 </div>
 
-
+## About Me
 I’m a junior full-stack web developer with over a year of hands-on experience building real projects. I enjoy turning ideas into working applications and learning by building, debugging, and improving my code.
 
 One project I’m especially proud of is an AI-powered flashcard app that converts long text into flashcards. I integrated Google AI APIs, implemented authentication with Clerk, deployed with Vercel, and used Firebase for data storage. Debugging deployment issues taught me a lot about real-world development, and I genuinely enjoyed the process.
