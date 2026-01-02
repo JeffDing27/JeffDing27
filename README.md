@@ -18,12 +18,15 @@
 </div>
 
 
-I’m a **rising senior** majoring in Computer Science with strong interests in Machine Learning, AI, and Backend Software Engineering, I enjoy building intelligent systems that are both practical and scalable. This past summer, I worked as a Software Engineering Intern at Qualcomm in San Diego, where I focused on building internal automation tools for the Camera Tuning and Image Quality team. My work included developing a dynamic Next.js dashboard to streamline debugging, automating Jenkins pipelines for CI/CD, and using OpenCV to automate parts of the camera evaluation process.
+I’m a junior full-stack web developer with over a year of hands-on experience building real projects. I enjoy turning ideas into working applications and learning by building, debugging, and improving my code.
 
-Beyond industry, I’ve explored AI research through NSF-funded work at Central Michigan University, where I implemented Physics-Informed Neural Networks and DeepONets to solve complex fluid dynamics problems more efficiently than traditional methods. I’ve also expanded my applied skills as a Headstarter AI Fellow, where I built and deployed multiple AI-powered applications and guided peers through backend and full-stack development.
+One project I’m especially proud of is an AI-powered flashcard app that converts long text into flashcards. I integrated Google AI APIs, implemented authentication with Clerk, deployed with Vercel, and used Firebase for data storage. Debugging deployment issues taught me a lot about real-world development, and I genuinely enjoyed the process.
 
-On GitHub, you’ll find projects that reflect my interests at the intersection of AI and software engineering. I’m excited about building impactful tools that make technology more intuitive, efficient, and human-centered.
+I’ve worked with JavaScript, CSS, Tailwind CSS, Material UI, React, and Next.js, and I’m comfortable deploying applications and managing domains. While I don’t have advanced CI/CD experience yet, I understand modern deployment workflows and continue to improve as I build more production-level projects.
 
+I graduated with an Associate Degree in Web Development (2024) and will begin pursuing a Bachelor’s degree in Software Engineering in January 2026. My goal is to become a strong full-stack developer, with a growing focus on building AI-powered applications.
+
+I’m always curious, open to learning new tools, and excited to keep building.
 ## Skills
 
 | Project                                       | Associated Skill                                        | Link To Repo    |
