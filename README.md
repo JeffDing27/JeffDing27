@@ -49,11 +49,7 @@ I’m always curious, open to learning new tools, and excited to keep building.
 - Self-taught, project-based learning
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-CyberSecurity Certificate | Google-618dd4?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python Specialist | Global Tech Experience-1679A7?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL Specialist | Global Tech Experience-4c20b3?&style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+
 
 ## Organizations / Services
 - Ensign College Tech Group
