@@ -37,8 +37,14 @@ I’m always curious, open to learning new tools, and excited to keep building.
 
 ## Tools/Platforms
 [![My Skills](https://skillicons.dev/icons?i=vercel,firebase,vscode)](https://skillicons.dev)
-**Clerk** - Authentication $ user management
-**Google AI / Gemini** - AI text generation & API integration
+ <img src="https://img.shields.io/badge/-Clerk-0a0a0a?&style=for-the-badge&logo=clerk&logoColor=white" />
+
+- **Clerk** - Authentication $ user management
+
+
+## AI & APIs
+[![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+- **Google AI / Gemini** - AI text generation & API integration
 
 ## Skills
 - Full-stack web development
