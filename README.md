@@ -29,6 +29,7 @@ I graduated with an Associate Degree in Web Development (2024) and will begin pu
 I’m always curious, open to learning new tools, and excited to keep building.
 ## Skills
 
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,firebase,mysql,materialui,styledcomponents,vercel,)](https://skillicons.dev)
 
 
 
