@@ -90,10 +90,6 @@ Next.js, React, Firebase, Material UI
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,react,nextjs,materialui,styledcomponents,tailwind)](https://skillicons.dev)
 
-## Frameworks/Libraries
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,materialui,styledcomponents,tailwind,)](https://skillicons.dev)
-
 ## ⚙️ Tools & Platforms
 
 [![My Skills](https://skillicons.dev/icons?i=vercel,firebase,vscode)](https://skillicons.dev)  
