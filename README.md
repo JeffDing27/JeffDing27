@@ -1,8 +1,9 @@
 # Hello, I'm Ru-Hsuan Ding!    
-<div>
+
 <a href="https://www.linkedin.com/in/ruhsuanding/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
+<div>
   <span style="float: right">
     <a href="https://drive.google.com/file/d/1EDWc55uDmqApfT7qB-n20L78kPjrsMQ8/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/-Resume-f2336f?&style=for-the-badge&logoColor=white" />
@@ -36,14 +37,16 @@ I’m always curious, open to learning new tools, and excited to keep building.
 
 ## Tools/Platforms
 [![My Skills](https://skillicons.dev/icons?i=vercel,firebase,vscode)](https://skillicons.dev)
+**Clerk** - Authentication $ user management
+**Google AI / Gemini** - AI text generation & API integration
 
 ## Skills
---- Full-stack web development
---- API integration (including AI APIs)
---- Authentication & authorization
---- Deployment & production debugging
---- Responsive UI development
---- Self-taught, project-based learning
+- Full-stack web development
+- API integration (including AI APIs)
+- Authentication & authorization
+- Deployment & production debugging
+- Responsive UI development
+- Self-taught, project-based learning
 
 ## Certifications
 <div>
