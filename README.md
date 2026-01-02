@@ -32,6 +32,56 @@ I’m always curious, open to learning new tools, and excited to keep building.
 - B.S. in Software Engineering — starting January 2026
 
 ---
+## 🚀 Featured Projects
+
+### 🏢 Origin Brand Merch — Business Website
+<a href="https://www.originbrandmerch.com/" target="_blank">
+  <img src="./assets/originbrand.png" width="700" />
+</a>
+
+**Description:**  
+Production business website built and maintained for a real company, with a focus on performance, responsiveness, and secure deployment.
+
+**Tech Stack:**  
+HTML, CSS, JavaScript, Cloudflare, Domain & DNS Management
+
+🔗 **Live Site:** https://www.originbrandmerch.com/  
+🔒 **Source Code:** Private (Client project)
+
+---
+
+### 🧠 AI Flashcard Generator
+<a href="https://flashcard-rust-theta.vercel.app/" target="_blank">
+  <img src="./assets/flashcard.png" width="700" />
+</a>
+
+**Description:**  
+AI-powered web application that converts long text into flashcards. Built as part of a fellowship project and deployed to production.
+
+**Tech Stack:**  
+Next.js, React, Tailwind CSS, Firebase, Clerk, Google AI (Gemini)
+
+🔗 **Live Demo:** https://flashcard-rust-theta.vercel.app/  
+📂 **GitHub Repo:** https://github.com/JeffDing27/flashcard-.git
+
+---
+
+### 📦 Inventory Tracker
+<a href="https://inventory-tracker-sheet.vercel.app/" target="_blank">
+  <img src="./assets/inventory.png" width="700" />
+</a>
+
+**Description:**  
+A full-stack inventory tracking application with real-time data updates and a clean, user-friendly interface.
+
+**Tech Stack:**  
+Next.js, React, Firebase, Material UI
+
+🔗 **Live Demo:** https://inventory-tracker-sheet.vercel.app/  
+📂 **GitHub Repo:** https://github.com/JeffDing27/inventory-tracker.git
+
+
+
 
 
 ## Languages
