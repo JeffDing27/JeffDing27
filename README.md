@@ -29,23 +29,7 @@ I graduated with an Associate Degree in Web Development (2024) and will begin pu
 I’m always curious, open to learning new tools, and excited to keep building.
 ## Skills
 
-| Project                                       | Associated Skill                                        | Link To Repo    |
-|-----------------------------------------------|---------------------------------------------------------|-----------------|
-| Qlippy - AI Productivity Fullstack App          | Node.js in VS Code, Convex, Material UI, Sanpdragon     |  <a href="https://github.com/edombelayneh/Qlippy.git">Click-Here</a> |
-| UpdateMe - Social Media App                   | Swift in XCode, Firebase                                |  <a href="https://github.com/edombelayneh/UpdateMe.git">Click-Here</a> |
-| Smart Inventory Tracker Web App               | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Vercel  |  <a href="https://github.com/edombelayneh/Inventory.git">Click-Here</a> |
-| Brain Tumor Classification ML Models          | Python in Google Colab, Streamlit App, Xception ML Model, Inception ML Model, CNN Models|  <a href="https://github.com/edombelayneh/BrainTumorClassification.git">Click-Here</a> |
-| GitHub Repository Analysis - Repo Chat        | Python in Google Colab, Streamlit App, Pinecone, Langchain, Groq, OpenAI, Github |  <a href="https://github.com/edombelayneh/GithubRepoChat.git">Click-Here</a> |
-| AiQuickDoc FullStack Web App                  | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Clerk, Stripe, Vercel, RAG Pipeline  | <a href="https://github.com/edombelayneh/AiQuickDoc.git">Click-Here</a>   |
-| Customer Churn Prediction                     | Google Colab & Replit, Streamlit, Python, ML models     | <a href="https://github.com/edombelayneh/ChurnForBankCustomers.git">Click-Here</a>   |
-| AI Chatbot with Mock Web App                  | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Vercel  |  <a href="https://github.com/edombelayneh/AI-Chatbot.git">Click-Here</a> |
-| AI Flashcard Generator                        | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Clerk, Stripe, Vercel  |  <a href="https://github.com/edombelayneh/AI-Flashcard-Generator.git">Click-Here</a> |
-| AI Rate My Professor                          | Node.js in VS Code, Firebase, Material UI, GroqCloud API, Clerk, Stripe, Vercel, RAG Pipeline  | <a href="https://github.com/edombelayneh/AI-RMP.git">Click-Here</a>   |
-| Zombie Apocalypse Video Game - Z-Lock         | Unity - C# Scripts                                      |  <a href="https://github.com/edombelayneh/Zombie-Apocalypse-Video-Game-Z-Lock.git">Click-Here</a> |
-| Rock-Paper-Scissors Game                      | Multi-Threading, Java in Eclipse                        |  <a href="https://github.com/edombelayneh/RPS-game-with-Multithreading.git">Click-Here</a> |
-| AI on Math - PINNs                            | Python (PyTorch, DeepXDE, JAX)                          |                 |
-| Grammy's Website                              | Tableau, Python and SQL                                 |                 |
-| Study App with JavaFX                         | JavaFX in Eclipse                                       |                 |
+
 
 
 ## Languages
