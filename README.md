@@ -22,9 +22,9 @@ I’m a **junior full-stack web developer** with over a year of hands-on experie
 
 One project I’m especially proud of is an AI-powered flashcard app that converts long text into flashcards. I integrated Google AI APIs, implemented authentication with Clerk, deployed with Vercel, and used Firebase for data storage. Debugging deployment issues taught me a lot about real-world development, and I genuinely enjoyed the process.
 
-I’ve worked with JavaScript, CSS, Tailwind CSS, Material UI, React, and Next.js, and I’m comfortable deploying applications and managing domains. While I don’t have advanced CI/CD experience yet, I understand modern deployment workflows and continue to improve as I build more production-level projects.
+I’ve worked with **JavaScript, CSS, Tailwind CSS, Material UI, React, and Next.js**, and I’m comfortable deploying applications and managing domains. While I don’t have advanced CI/CD experience yet, I understand modern deployment workflows and continue to improve as I build more production-level projects.
 
-I have hands-on experience building 30+ production websites using HTML, CSS, and JavaScript, setting up domains and security with Cloudflare, and integrating third-party services such as Shopify, ShipStation, and inventory systems.
+I have hands-on experience building **30+ production websites** using HTML, CSS, and JavaScript, setting up domains and security with Cloudflare, and integrating third-party services such as Shopify, ShipStation, and inventory systems.
 
 I’m always curious, open to learning new tools, and excited to keep building.
 
@@ -86,28 +86,27 @@ Next.js, React, Firebase, Material UI
 🔗 **Live Demo:** https://inventory-tracker-sheet.vercel.app/  
 📂 **GitHub Repo:** https://github.com/JeffDing27/inventory-tracker.git
 
-## Languages
+## 🛠 Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,react,nextjs,materialui,styledcomponents,tailwind)](https://skillicons.dev)
 
 ## Frameworks/Libraries
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,materialui,styledcomponents,tailwind,)](https://skillicons.dev)
 
-## Tools/Platforms
+## ⚙️ Tools & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=vercel,firebase,vscode)](https://skillicons.dev)
-<img src="https://img.shields.io/badge/-Clerk-0a0a0a?&style=for-the-badge&logo=clerk&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=vercel,firebase,vscode)](https://skillicons.dev)  
+<img src="https://img.shields.io/badge/-Clerk-0a0a0a?&style=for-the-badge&logo=clerk&logoColor=white" />  
+<img src="https://img.shields.io/badge/-GoDaddy-0a0a0a?&style=for-the-badge&logo=globe&logoColor=white" />  
 
-- **Clerk** - Authentication $ user management
-
-## AI & APIs
+## 🤖 AI & APIs
 
 [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
 
 - **Google AI / Gemini** - AI text generation & API integration
 
-## Skills
+## 💡 Skills
 
 - Full-stack web development
 - API integration (including AI APIs)
@@ -116,12 +115,10 @@ Next.js, React, Firebase, Material UI
 - Responsive UI development
 - Self-taught, project-based learning
 
-## Certifications
+## 🏛 Affiliations / Services
 
-## Organizations / Services
-
-- Ensign College Tech Group
-- GoDaddy
-- Codecademy
-- FrontendMasters
+- Ensign College Tech Group  
+- GoDaddy  
+- Codecademy  
+- FrontendMasters  
 - SHPE
