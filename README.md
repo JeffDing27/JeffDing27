@@ -5,7 +5,7 @@
 </a>
 <div>
   <span style="float: right">
-    <a href="https://drive.google.com/file/d/1EDWc55uDmqApfT7qB-n20L78kPjrsMQ8/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1VdVazELKfc9vX3RAGeELLPuKqcilvoRG/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/-Resume-f2336f?&style=for-the-badge&logoColor=white" />
     </a>
   </span>
